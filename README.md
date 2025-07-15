@@ -5,7 +5,7 @@ Este projeto em linguagem C implementa e compara o desempenho de três algoritmo
 
 ---
 
-## 📌 Estrutura de Dados
+##  Estrutura de Dados
 
 A estrutura usada para armazenar os dados é:
 
@@ -18,7 +18,7 @@ typedef struct {
 
 ---
 
-## 🧠 Algoritmos de Ordenação Implementados
+##  Algoritmos de Ordenação Implementados
 
 ### 1. **Bubble Sort**
 - **Descrição:** Percorre o vetor várias vezes, comparando pares de elementos adjacentes e trocando-os se estiverem fora de ordem.
@@ -56,7 +56,7 @@ typedef struct {
 
 ---
 
-## 📊 Resultados de Desempenho (20 pessoas)
+## Resultados de Desempenho (20 pessoas)
 
 | Algoritmo      | Comparações Médias | Trocas Médias | Tempo Médio (ms) |
 |----------------|--------------------|----------------|------------------|
@@ -66,7 +66,7 @@ typedef struct {
 
 ---
 
-## 🧪 Considerações
+##  Considerações
 
 - O algoritmo **Merge Sort** teve o menor número de comparações e trocas, mostrando eficiência teórica na prática.
 - O **Insertion Sort** foi mais rápido que o **Bubble Sort**, com menos comparações.
@@ -74,7 +74,7 @@ typedef struct {
 
 ---
 
-## ✅ Compilação
+##  Compilação
 
 ```bash
 gcc programa.c -o programa
@@ -83,6 +83,6 @@ gcc programa.c -o programa
 
 ---
 
-## 📁 Autor
+## Autor
 
 Trabalho acadêmico para disciplina de Estrutura de Dados / Algoritmos, com foco na comparação de algoritmos de ordenação.
