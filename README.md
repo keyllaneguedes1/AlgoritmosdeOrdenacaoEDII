@@ -74,15 +74,6 @@ typedef struct {
 
 ---
 
-##  Compilação
-
-```bash
-gcc programa.c -o programa
-./programa
-```
-
----
-
 ## Autor
 
 Trabalho acadêmico para disciplina de Estrutura de Dados II do curso de Análise e Desenvolvimento de Sistemas, com foco na comparação de algoritmos de ordenação.
