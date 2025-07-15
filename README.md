@@ -68,9 +68,7 @@ typedef struct {
 
 ##  Considerações
 
-- O algoritmo **Merge Sort** teve o menor número de comparações e trocas, mostrando eficiência teórica na prática.
-- O **Insertion Sort** foi mais rápido que o **Bubble Sort**, com menos comparações.
-- O tempo pode variar ligeiramente entre execuções, principalmente por ser um volume pequeno de dados.
+A partir da implementação e comparação dos algoritmos de ordenação Bubble Sort, Insertion Sort e Merge Sort, foi possível observar na prática as diferenças teóricas entre eles. O Bubble Sort, apesar de ser simples e didático, demonstrou ser o menos eficiente em termos de número de comparações, refletindo seu desempenho quadrático mesmo com apenas 20 elementos. O Insertion Sort apresentou desempenho superior em relação ao Bubble Sort em termos de comparações, mantendo o mesmo número de trocas, o que comprova sua vantagem em listas pequenas e parcialmente ordenadas. O Merge Sort destacou-se por realizar o menor número de comparações e trocas, mesmo com um tempo médio um pouco superior, o que se deve ao custo das chamadas recursivas e alocação de memória extra. No geral, o Merge Sort mostrou-se o algoritmo mais eficiente e escalável, enquanto os demais ilustram bem os conceitos fundamentais de ordenação. Este experimento reforça a importância de compreender não apenas a lógica, mas também o impacto prático da complexidade algorítmica em diferentes contextos.
 
 ---
 
