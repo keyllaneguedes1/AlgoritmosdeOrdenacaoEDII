@@ -37,7 +37,7 @@ typedef struct {
 - **Vantagem:** Eficiente para pequenos conjuntos de dados ou listas quase ordenadas.
 - **Desvantagem:** Desempenho ruim em listas grandes e desordenadas.
 
-> **Complexidade:**
+> Complexidade:
  Melhor caso: O(n)
  Médio caso: O(n²)
  Pior caso: O(n²)
