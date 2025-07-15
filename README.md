@@ -26,9 +26,9 @@ typedef struct {
 - **Desvantagem:** Extremamente ineficiente para grandes conjuntos de dados.
 
 > **Complexidade:**
-- Melhor caso: O(n)
-- Médio caso: O(n²)
-- Pior caso: O(n²)
+ Melhor caso: O(n)
+ Médio caso: O(n²)
+ Pior caso: O(n²)
 
 ---
 
@@ -38,9 +38,9 @@ typedef struct {
 - **Desvantagem:** Desempenho ruim em listas grandes e desordenadas.
 
 > **Complexidade:**
-- Melhor caso: O(n)
-- Médio caso: O(n²)
-- Pior caso: O(n²)
+ Melhor caso: O(n)
+ Médio caso: O(n²)
+ Pior caso: O(n²)
 
 ---
 
@@ -50,9 +50,9 @@ typedef struct {
 - **Desvantagem:** Utiliza espaço adicional proporcional ao tamanho do vetor.
 
 > **Complexidade:**
-- Melhor caso: O(n log n)
-- Médio caso: O(n log n)
-- Pior caso: O(n log n)
+ Melhor caso: O(n log n)
+ Médio caso: O(n log n)
+ Pior caso: O(n log n)
 
 ---
 
@@ -85,4 +85,4 @@ gcc programa.c -o programa
 
 ## Autor
 
-Trabalho acadêmico para disciplina de Estrutura de Dados / Algoritmos, com foco na comparação de algoritmos de ordenação.
+Trabalho acadêmico para disciplina de Estrutura de Dados II do curso de Análise e Desenvolvimento de Sistemas, com foco na comparação de algoritmos de ordenação.
